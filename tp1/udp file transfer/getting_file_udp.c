@@ -1,3 +1,9 @@
+/**
+* \author Aki Schmatzler
+* \brief server for a very simple udp file transfer
+* \date 10/10/21
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
